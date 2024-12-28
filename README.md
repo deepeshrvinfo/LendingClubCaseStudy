@@ -14,7 +14,7 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 
 ## Conclusions
-- Prefer refer the pdf file Deepesh_Ramachandran_Vijayalekshmi_LendingClub_CaseStudy.pdf for insights
+- Please refer the pdf file Deepesh_Ramachandran_Vijayalekshmi_LendingClub_CaseStudy.pdf for insights
 - The jupyter notebook Deepesh_Ramachandran_Vijayalekshmi_LendingClub_CaseStudy.ipynb has the detailed analysis and plots
 
 
