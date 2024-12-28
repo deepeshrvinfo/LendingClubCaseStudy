@@ -1,52 +1,37 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Conduct Exploratory Data Analysis (EDA) on the Lending Club dataset, to identify the driving factors influencing loan defaults. This analysis aims to enhance the company's risk assessment capabilities, enabling more informed lending decisions that minimize financial losses. 
+By understanding the driving variables behind loan defaults, the company can better manage its portfolio and mitigate credit risk. 
+
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+* [Technologies Used](#technologies-used)
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+In this case study, we will use EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Prefer refer the pdf file Deepesh_Ramachandran_Vijayalekshmi_LendingClub_CaseStudy.pdf for insights
+- The jupyter notebook Deepesh_Ramachandran_Vijayalekshmi_LendingClub_CaseStudy.ipynb has the detailed analysis and plots
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+- Pandas
+- Numpy
+- MatPlotLib
+- Plotly
+- Seaborn
+- Jupyter notebook
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+NA
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@deepeshrvinfo]
